@@ -1,6 +1,6 @@
-# SmartTeach
-## Implementación de Sistemas de Información 
-![](./Images/leon.jpg)
+# Implementación de Sistemas de Información 
+<img src="./Images/leon.jpg" width="100" height="100" />
+
 * ### Mtro. León Miguel Ramos Corchado 
 ### Hola a tod@s👋,
 
