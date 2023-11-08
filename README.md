@@ -1,7 +1,6 @@
 # Implementación de Sistemas de Información 
-<img src="./Images/leon.jpg" width="120" height="200" />
+<img src="./Images/leon.jpg" width="130" height="200" />  Mtro. León Miguel Ramos Corchado
 
-* ### Mtro. León Miguel Ramos Corchado 
 ### Hola a tod@s👋,
 
 ## En este curso aprenderemos lo siguiente:
