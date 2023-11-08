@@ -1,6 +1,7 @@
 # SmartTeach
-## Mini curso de Implementación de Sistemas de Información 
-![](./Images/header.jpg)
+## Implementación de Sistemas de Información 
+![](./Images/leon.jpg)
+* ### Mtro. León Miguel Ramos Corchado 
 ### Hola a tod@s👋,
 
 ## En este curso aprenderemos lo siguiente:
