@@ -16,6 +16,6 @@
 * ### Implementación de aplicaciones Informáticas
 #### Objetivo: Comprender la importancia de la implementación adecuada de aplicaciones informáticas, abordando temas como la arquitectura de software, el ciclo de vida del desarrollo de software, las metodologías ágiles y las pruebas de software.
 
-![](./Images/Sistemas de Información.jpg)
+![](./Images/Sistemas.jpg)
 
 #### Puedes apoyar mi trabajo haciendo "☆ Star" en el repo o nominarme a "GitHub Star". ¡Gracias!
