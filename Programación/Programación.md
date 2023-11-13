@@ -2,7 +2,7 @@
 
 [![Python](https://img.shields.io/badge/Python-3.11+-yellow?style=for-the-badge&logo=python&logoColor=white&labelColor=101010)](https://python.org)
 
-### Utilizaremos el siguiente entorno en la nube para trabajar y evitar problemas de configuración:  [![Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/roboflow-ai/notebooks/blob/main/notebooks/train-rtmdet-object-detection-on-custom-data.ipynb)
+### Utilizaremos el siguiente entorno en la nube para trabajar:[![Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/roboflow-ai/notebooks/blob/main/notebooks/train-rtmdet-object-detection-on-custom-data.ipynb)
 
 ## Algoritmos
 Un algoritmo es un conjunto de instrucciones paso a paso que describe cómo realizar un cálculo, resolver un problema o realizar una tarea.
