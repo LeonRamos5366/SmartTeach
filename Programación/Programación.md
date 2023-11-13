@@ -12,7 +12,6 @@ Un algoritmo es un conjunto de instrucciones paso a paso que describe cómo real
 | Tipo de Algoritmo | Descripción| Aplicaciones | Ventajas |
 |------|------|------|------|
 | Búsqueda Lineal (Linear Search) | Este algoritmo recorre secuencialmente cada elemento en una lista hasta encontrar el valor deseado | Útil para buscar elementos no ordenados en una lista pequeña o no indexada |Fácil de implementar y funciona bien en listas no ordenadas |
-
 |Búsqueda Binaria (Binary Search)| Este algoritmo divide repetidamente a la mitad la lista de elementos y compara el valor deseado con el elemento central.| Ideal para buscar elementos en listas ordenadas.| Eficiente en listas ordenadas, ya que reduce el número de comparaciones necesarias.|
 
 
@@ -21,7 +20,6 @@ Un algoritmo es un conjunto de instrucciones paso a paso que describe cómo real
 | Tipo de Algoritmo | Descripción| Aplicaciones | Ventajas |
 |------|------|------|------|
 | Ordenamiento de Burbuja (Bubble Sort)| Compara pares de elementos adyacentes y los intercambia si están en el orden incorrecto. | Adecuado para listas pequeñas o casi ordenadas.| Fácil de implementar y entender.|
-
 |Ordenamiento Rápido (Quick Sort)| Utiliza un elemento pivote para dividir la lista en dos sub-listas, y luego ordena recursivamente cada sub-lista. | Eficiente para listas grandes y desordenadas.| Rápido en listas grandes y ocupa menos espacio de memoria que otros algoritmos.|
 
 
