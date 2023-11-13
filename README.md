@@ -21,7 +21,7 @@ Analizar y comprender los conceptos básicos de programación, como variables, e
 
 | No. | Name | File |
 |------|------|------|
-|1.|Metodología de la Programación|[🔗 Link : Working of a LED](https://github.com/HimeshKohad/Arduino_Projects/blob/main/Workings/LED.md)|
+|1.|Metodología de la Programación|[🔗 Link : De Junior hasta Senior](https://github.com/LeonRamos5366/SmartTeach/blob/main/Programaci%C3%B3n/MProgramacion.pdf)|
 |2.|Algoritmos, D. de flujo y Programas|[🔗 Link : Working of a Ultrasonic Sensor](https://github.com/HimeshKohad/Arduino_Projects/blob/main/Workings/Ultrasonic%20Sensor.md)|
 |3.|Estructuras Algorítmicas Selectivas|[🔗 Link : Working of a IR Sensor](https://github.com/HimeshKohad/Arduino_Projects/blob/main/Workings/IR%20Sensor.md)|
 |4.|Estructuras Algorítmicas Repetitivas|[🔗 Link : Working of a IR Sensor](https://github.com/HimeshKohad/Arduino_Projects/blob/main/Workings/IR%20Sensor.md)|
