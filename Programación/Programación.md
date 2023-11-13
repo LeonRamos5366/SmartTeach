@@ -30,8 +30,8 @@ Estos algoritmos son fundamentales en el desarrollo de software, ya que permiten
 ### 💻 [El siguiente articulo nos da una mejor perspectiva de los algoritmos en el ecosistema de la programación](https://github.com/LeonRamos5366/SmartTeach/blob/main/Programaci%C3%B3n/MProgramacion.pdf)
 
 ## Diagramas de Flujo
-<br>
-Los diagramas de flujo en programación son representaciones visuales de los pasos lógicos necesarios para resolver un problema o ejecutar un proceso. Estos diagramas utilizan símbolos gráficos para representar las diferentes etapas de un algoritmo o flujo de trabajo. Son esenciales para la comprensión de algoritmos complejos y la planificación de programas.</br>
+
+Los diagramas de flujo en programación son representaciones visuales de los pasos lógicos necesarios para resolver un problema o ejecutar un proceso. Estos diagramas utilizan símbolos gráficos para representar las diferentes etapas de un algoritmo o flujo de trabajo. Son esenciales para la comprensión de algoritmos complejos y la planificación de programas.
 
 Para utilizarlos de manera efectiva, es crucial comprender los símbolos estándar utilizados en los diagramas de flujo, como el inicio/fin, proceso, decisión, entrada/salida, y el flujo de control. La importancia de los diagramas de flujo radica en su capacidad para comunicar visualmente la lógica de un algoritmo, lo que facilita la comprensión y colaboración en el desarrollo de software.
 
