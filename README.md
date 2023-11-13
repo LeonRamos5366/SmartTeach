@@ -11,9 +11,10 @@
 
 * ### Conceptos de Programación
 #### Objetivo: Analizar y comprender los conceptos básicos de programación, como variables, estructuras de control (bucles, condicionales), funciones y objetos. Considerando los dos paradigmas actuales de programación PED & POO.
-<br>
+
 [🔗 Git GitHub?](https://github.com/Hispano/Guia-sobre-Git-Github-y-Metodologia-de-Desarrollo-de-Software-usando-Git-y-Github)|
 
+<br>
 ***Explicando Conceptos Básicos de Programación***
 
 | No. | Name | File |
