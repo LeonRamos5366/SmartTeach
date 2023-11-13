@@ -41,7 +41,7 @@ Las mejores prácticas para crear y entender los diagramas de flujo incluyen man
 
 ![](./simbologia.jpg)
 
-#### DFD es un editor e intérprete de diagramas de flujo [link:] (https://www.youtube.com/watch?v=IkV7GN1C6Yc)
+#### DFD es un editor e intérprete de diagramas de flujo [link:](https://www.youtube.com/watch?v=IkV7GN1C6Yc)
 ## Programas
 Un programa es un conjunto de instrucciones escritas en un lenguaje de programación específico que le indica a una computadora cómo realizar una tarea o resolver un problema. 
 
