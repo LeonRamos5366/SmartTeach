@@ -24,4 +24,4 @@ Los sistemas de información proporcionan soporte a la toma de decisiones al pro
 
 Toma en cuenta las siguientes características de los sistemas de información, como la automatización de procesos, el acceso a la información, la integración de datos, la seguridad de la información, la generación de informes y análisis, y el apoyo a la toma de decisiones, son fundamentales para mejorar la eficiencia, la productividad y la toma de decisiones en las organizaciones modernas. Estas características hacen que los sistemas de información sean un componente esencial en el entorno empresarial actual.
 
-[🔗 El siguiente video nos da una perspectiva gráfica de los sistemas de información:](https://www.youtube.com/watch?v=_aKuRFMHKyY)
+[🔗 El siguiente video nos da una perspectiva gráfica de los sistemas de información](https://www.youtube.com/watch?v=_aKuRFMHKyY)
