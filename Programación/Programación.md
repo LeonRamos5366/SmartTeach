@@ -7,6 +7,8 @@
 ## Algoritmos
 Un algoritmo es un conjunto de instrucciones paso a paso que describe cómo realizar un cálculo, resolver un problema o realizar una tarea.
 
+![](./Images/image-5.png)
+
 #### Algunos de los algoritmos de búsqueda comunes son:
 
 | Tipo de Algoritmo | Descripción| Aplicaciones | Ventajas |
