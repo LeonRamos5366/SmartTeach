@@ -43,7 +43,8 @@ Las mejores prácticas para crear y entender los diagramas de flujo incluyen man
 
 #### DFD es un editor e intérprete de diagramas de flujo [aquí](https://www.youtube.com/watch?v=IkV7GN1C6Yc)
 
-#### herramienta enfocada fundamentalmente para el aprendizaje de la programación en código. Es una plataforma muy útil para realizar la transición desde la programación en bloques, que se trabaja en los primeros cursos de tecnología, hasta la introducción el concepto de pseudocódigo y código. [Online](https://code2flow.com/)
+#### Code2flow
+Herramienta enfocada fundamentalmente para el aprendizaje de la programación en código. Es una plataforma muy útil para realizar la transición desde la programación en bloques, que se trabaja en los primeros cursos de tecnología, hasta la introducción el concepto de pseudocódigo y código. [Online](https://code2flow.com/)
 
 ## Programas
 Un programa es un conjunto de instrucciones escritas en un lenguaje de programación específico que le indica a una computadora cómo realizar una tarea o resolver un problema. 
