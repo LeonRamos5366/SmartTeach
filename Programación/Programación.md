@@ -39,6 +39,7 @@ Un ejemplo concreto de su aplicación es el diseño de un algoritmo de búsqueda
 
 Las mejores prácticas para crear y entender los diagramas de flujo incluyen mantener la simplicidad, usar colores para resaltar elementos clave, y etiquetar claramente cada símbolo. Es recomendable utilizar herramientas especializadas como Lucidchart, Draw.io o Microsoft Visio para crear diagramas de flujo de manera efectiva. 
 
+![](./simbologia.jpg)
 
 ## Programas
 Un programa es un conjunto de instrucciones escritas en un lenguaje de programación específico que le indica a una computadora cómo realizar una tarea o resolver un problema. 
