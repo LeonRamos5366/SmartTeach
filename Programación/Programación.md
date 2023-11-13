@@ -49,4 +49,18 @@ Herramienta enfocada fundamentalmente para el aprendizaje de la programación en
 ## Programas
 Un programa es un conjunto de instrucciones escritas en un lenguaje de programación específico que le indica a una computadora cómo realizar una tarea o resolver un problema. 
 
+#### Conceptos Básicos de Programación
+#### Tipos de Datos
+* Simples
+* Estructurados
+* Datos numéricos
+* Datos alfanuméricos
+* Datos lógicos 
+#### identificadoes, constantes y variables
+* Identificadores 
+* Constantes 
+* Variables
+
+
+
 
