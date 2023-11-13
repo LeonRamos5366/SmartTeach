@@ -7,6 +7,7 @@
 ## Algoritmos
 Un algoritmo es un conjunto de instrucciones paso a paso que describe cómo realizar un cálculo, resolver un problema o realizar una tarea.
 
+### 💻 [El siguiente articulo nos da una mejor perspectiva de los algoritmos en el ecosistema de la programación](https://github.com/LeonRamos5366/SmartTeach/blob/main/Programaci%C3%B3n/MProgramacion.pdf)
 
 ## Diagramas de Flujo
 Un diagrama de flujo es una representación visual de un algoritmo que utiliza formas geométricas para representar diferentes acciones, decisiones y puntos de control dentro del algoritmo. 
