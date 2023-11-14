@@ -31,6 +31,8 @@ Analizar y comprender los conceptos básicos de programación, como variables, e
 * ### Bases de Datos
 #### Objetivo: Enteneder los fundamentos de las bases de datos, incluyendo los diferentes tipos de bases de datos (relacionales, NoSQL), el modelado de datos, consultas SQL y la importancia de la integridad de los datos.
 
+Lenguaje SQL con Mysql [Aquí](https://github.com/jvadillo/guia-rapida-mysql/blob/master/README.md)
+
 ![](./Images/sqlandno.jpeg)
 
 * ### Implementación de aplicaciones Informáticas
