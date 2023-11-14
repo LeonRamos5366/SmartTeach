@@ -56,10 +56,21 @@ Un programa es un conjunto de instrucciones escritas en un lenguaje de programac
 * Datos numéricos
 * Datos alfanuméricos
 * Datos lógicos 
-#### identificadoes, constantes y variables
+
+#### Identificadoes, Constantes y Variables
 * Identificadores 
 * Constantes 
 * Variables
+
+#### Operaciones Aritméticas
+![](./tabla1.png)
+
+![](./tabla2.png)
+
+#### Expresiones Lógicas
+* Operadores relacionales
+
+![](./tabla3.png)
 
 
 
