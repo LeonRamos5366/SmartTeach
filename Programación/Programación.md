@@ -57,7 +57,7 @@ Un programa es un conjunto de instrucciones escritas en un lenguaje de programac
 * Datos alfanuméricos
 * Datos lógicos 
 
-#### Identificadores, Constantes y Variables
+#### Identificadores, Constantes y Variables [Aquí](https://github.com/JorgeDeLosSantos/apuntes-python/blob/master/Variables%2C%20operadores%20y%20expresiones.ipynb)
 * Identificadores 
 * Constantes 
 * Variables
