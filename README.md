@@ -33,6 +33,8 @@ Analizar y comprender los conceptos básicos de programación, como variables, e
 
 Lenguaje SQL con Mysql [Aquí](https://github.com/jvadillo/guia-rapida-mysql/blob/master/README.md)
 
+Compilador de Mysql Online [Aquí](https://paiza.io/en/projects/new?language=mysql)
+
 ![](./Images/sqlandno.jpeg)
 
 * ### Implementación de aplicaciones Informáticas
