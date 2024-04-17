@@ -25,7 +25,8 @@ Analizar y comprender los conceptos básicos de programación, como variables, e
 |2.|Algoritmos, D. de flujo y Programas|[🔗 Link : De Junior hasta Senior](https://github.com/LeonRamos5366/SmartTeach/blob/main/Programaci%C3%B3n/Programaci%C3%B3n.md)|
 |3.|Estructuras Algorítmicas Selectivas|[🔗 Link : if, if-else](https://github.com/JorgeDeLosSantos/apuntes-python/blob/master/Estructuras%20de%20control.ipynb)|
 |4.|Estructuras Algorítmicas Repetitivas|[🔗 Link : while, do while, for](https://github.com/JorgeDeLosSantos/apuntes-python/blob/master/Funciones.ipynb)|
-|5.|Estructuras de Datos|[🔗 Link : arreglos, pilas, colas, grafos](https://github.com/Mgobeaalcoba/data_structs_python/blob/main/README.md)|
+|5.|Programación Secuancial|[🔗 Link : Programación Secuencial]([https://github.com/LeonRamos5366/SmartTeach/blob/main/Programaci%C3%B3n/Tradicional_vs_%C3%A1gil.pdf](https://github.com/LeonRamos5366/SmartTeach/blob/main/Programaci%C3%B3nSecuencial.md))|
+|6.|Estructuras de Datos|[🔗 Link : arreglos, pilas, colas, grafos](https://github.com/Mgobeaalcoba/data_structs_python/blob/main/README.md)|
 <br>
 
 * ### Bases de Datos
