@@ -14,7 +14,7 @@ Sin embargo, la programación secuencial sigue siendo ampliamente utilizada en v
 
 La programación secuencial se refiere a la ejecución de instrucciones en un orden específico, una tras otra, en lugar de de manera concurrente o simultánea. Cuando hablamos de métodos de ordenamiento y búsqueda de datos, también seguimos este enfoque secuencial para realizar estas operaciones.
 
-1. **Métodos de ordenamiento:**
+1. **Métodos de ordenamiento:** https://github.com/LeonRamos5366/SmartTeach/blob/main/metodosordenamiento.md
    - **Bubble Sort:** Este método compara pares de elementos adyacentes y los intercambia si están en el orden incorrecto. Repite este proceso hasta que la lista esté ordenada.
    - **Selection Sort:** Encuentra el elemento más pequeño en la lista y lo intercambia con el primer elemento. Luego, encuentra el siguiente elemento más pequeño y lo intercambia con el segundo, y así sucesivamente.
    - **Insertion Sort:** Toma un elemento de la lista y lo inserta en su lugar correcto en una sublista ordenada. Repite este proceso hasta que todos los elementos estén en la sublista ordenada.
