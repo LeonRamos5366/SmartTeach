@@ -21,7 +21,7 @@ La programación secuencial se refiere a la ejecución de instrucciones en un or
    - **Merge Sort:** Divide la lista en mitades, ordena cada mitad de manera recursiva y luego combina las mitades ordenadas para obtener la lista ordenada completa.
    - **Quick Sort:** Selecciona un elemento como pivote y divide la lista en dos partes, una con elementos menores que el pivote y otra con elementos mayores. Luego, ordena recursivamente ambas partes.
 
-2. **Métodos de búsqueda de datos:**
+2. **Métodos de búsqueda de datos:** https://github.com/LeonRamos5366/SmartTeach/blob/main/busquedaDATOS.md
    - **Búsqueda secuencial:** Comienza desde el primer elemento y recorre la lista uno por uno hasta encontrar el elemento buscado o llegar al final de la lista.
    - **Búsqueda binaria:** Funciona en listas ordenadas y divide repetidamente la lista por la mitad, descartando la mitad donde no puede estar el elemento buscado.
    - **Búsqueda por interpolación:** Similar a la búsqueda binaria, pero utiliza una fórmula para estimar la posición del elemento buscado en lugar de dividir la lista en dos partes iguales.
