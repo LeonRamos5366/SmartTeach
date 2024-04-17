@@ -11,3 +11,60 @@ Sin embargo, la programación secuencial sigue siendo ampliamente utilizada en v
 * En el desarrollo de aplicaciones y programas más simples donde la secuencialidad es suficiente para cumplir con los requerimientos.
 * En la educación y el aprendizaje de programación, ya que proporciona una base fundamental para comprender conceptos más avanzados.
 * En tareas y scripts automatizados donde el flujo de ejecución puede ser lineal y no requiere concurrencia.
+
+Claro, puedo ayudarte a formatear la información para que sea compatible con GitHub. A continuación, te proporcionaré la información sobre los métodos de ordenamiento y búsqueda de datos con formato markdown para GitHub:
+Métodos de Ordenamiento de Datos
+
+
+Ordenamiento Burbuja (Bubble Sort)
+
+Compara pares de elementos adyacentes y los intercambia si están en el orden incorrecto. Aunque sencillo, puede ser ineficiente para conjuntos de datos grandes.
+
+
+
+Ordenamiento por Inserción (Insertion Sort)
+
+Recorre la lista de elementos, insertando cada uno en su lugar correcto. Es eficiente para conjuntos de datos pequeños y casi ordenados.
+
+
+
+Ordenamiento por Selección (Selection Sort)
+
+Encuentra el elemento más pequeño de la lista y lo intercambia con el primer elemento. A pesar de su simplicidad, no es eficiente para conjuntos de datos grandes.
+
+
+
+Ordenamiento Rápido (Quick Sort)
+
+Utiliza la técnica de dividir y conquistar para ordenar los elementos de la lista. Es eficiente para conjuntos de datos grandes.
+
+
+
+Ordenamiento por Fusión (Merge Sort)
+
+Divide la lista en mitades, las ordena por separado y luego fusiona las dos mitades ordenadas. Es eficiente para conjuntos de datos grandes y es estable.
+
+
+
+Métodos de Búsqueda de Datos
+
+
+Búsqueda Secuencial
+
+Recorre los elementos de una lista en secuencia hasta encontrar el elemento deseado. Es sencillo pero puede ser ineficiente para grandes conjuntos de datos no ordenados.
+
+
+
+Búsqueda Binaria
+
+Utiliza la técnica de dividir y conquistar en una lista ordenada para encontrar un elemento. Es eficiente pero requiere que los datos estén ordenados.
+
+
+
+Árboles de Búsqueda (Binary Search Tree)
+
+Estructura de datos que permite búsquedas eficientes y otras operaciones como inserción y eliminación en conjuntos de datos ordenados.
+
+
+
+Espero que esta información formateada sea útil para tus necesidades en GitHub. Si necesitas alguna otra ayuda con el formato, no dudes en decírmelo.
