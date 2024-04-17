@@ -3,8 +3,7 @@ Se refiere a un estilo de programación en el que las instrucciones se ejecutan 
 Utilidad de la Programación Secuencial
 
 * Simplicidad: Es fácil de entender y seguir, ya que las instrucciones se ejecutan en secuencia, lo que facilita el proceso de desarrollo y depuración.
-Control preciso del flujo: Permite un control preciso del flujo de ejecución del programa, lo que es útil en situaciones donde se requiere un comportamiento lineal y predecible.
-
+* Control preciso del flujo: Permite un control preciso del flujo de ejecución del programa, lo que es útil en situaciones donde se requiere un comportamiento lineal y predecible.
 * Uso en los Últimos Años
 Aunque la programación secuencial sigue siendo fundamental, en los últimos años ha surgido un énfasis en el desarrollo de aplicaciones y sistemas que requieren mayor concurrencia y paralelismo. Esto ha llevado al aumento en el uso de paradigmas de programación alternativos, como la programación concurrente y paralela, que permiten la ejecución simultánea de múltiples operaciones.
 Sin embargo, la programación secuencial sigue siendo ampliamente utilizada en varios contextos:
