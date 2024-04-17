@@ -8,6 +8,6 @@ Utilidad de la Programación Secuencial
 Aunque la programación secuencial sigue siendo fundamental, en los últimos años ha surgido un énfasis en el desarrollo de aplicaciones y sistemas que requieren mayor concurrencia y paralelismo. Esto ha llevado al aumento en el uso de paradigmas de programación alternativos, como la programación concurrente y paralela, que permiten la ejecución simultánea de múltiples operaciones.
 Sin embargo, la programación secuencial sigue siendo ampliamente utilizada en varios contextos:
 
-** En el desarrollo de aplicaciones y programas más simples donde la secuencialidad es suficiente para cumplir con los requerimientos.
-** En la educación y el aprendizaje de programación, ya que proporciona una base fundamental para comprender conceptos más avanzados.
-** En tareas y scripts automatizados donde el flujo de ejecución puede ser lineal y no requiere concurrencia.
+* En el desarrollo de aplicaciones y programas más simples donde la secuencialidad es suficiente para cumplir con los requerimientos.
+* En la educación y el aprendizaje de programación, ya que proporciona una base fundamental para comprender conceptos más avanzados.
+* En tareas y scripts automatizados donde el flujo de ejecución puede ser lineal y no requiere concurrencia.
