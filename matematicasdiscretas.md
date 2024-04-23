@@ -11,7 +11,7 @@ La matemática discreta es fundamental en la ingeniería de sistemas computacion
 5. **Teoría de números**: La teoría de números tiene aplicaciones en criptografía, compresión de datos y diseño de algoritmos eficientes. Los ingenieros utilizan conceptos como números primos, congruencias y teorema chino del resto en el diseño y análisis de algoritmos criptográficos, algoritmos de compresión de datos y algoritmos de búsqueda eficientes.
 
 #Temas
-1. [Teoría de números](Contenido/1TEORIADENUMEROS.pdf)
+1. [Teoría de números](Contenido/1 TEORIA DE NUMEROS.pdf)
 1. [Sistemas de codificación](Contenido/2SISTEMASDECODIFICACIÓN.pdf)
 1. [Punto flotante](Contenido/3PUNTOFLOTANTE.pdf)
 1. [Lógica de proposiciones](Contenido/4LOGICADEPROPOSICIONES.pdf)
