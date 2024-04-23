@@ -11,18 +11,18 @@ La matemática discreta es fundamental en la ingeniería de sistemas computacion
 5. **Teoría de números**: La teoría de números tiene aplicaciones en criptografía, compresión de datos y diseño de algoritmos eficientes. Los ingenieros utilizan conceptos como números primos, congruencias y teorema chino del resto en el diseño y análisis de algoritmos criptográficos, algoritmos de compresión de datos y algoritmos de búsqueda eficientes.
 
 #Temas
-1. [Teoría de números](https://github.com/OrregoGildardo/MatematicasDiscretas/blob/master/Contenido/1%20TEORIA%20DE%20NUMEROS.pdf)
-1. [Sistemas de codificación](Contenido/2SISTEMASDECODIFICACIÓN.pdf)
-1. [Punto flotante](Contenido/3PUNTOFLOTANTE.pdf)
-1. [Lógica de proposiciones](Contenido/4LOGICADEPROPOSICIONES.pdf)
-1. [Lógica de cuantificadores](Contenido/CUANTIFICADORES.pdf)
-1. [Teoría de conjuntos](Contenido/7CONJUNTOS.pdf)
-1. [Relaciones](Contenido/RELACIONES.pdf)
-1. [Funciones](Contenido/8 FUNCIONES.pdf)
-1. [Relaciones de recurrencia](Contenido/RELACIONES DE RECURRENCIA.pdf)
-1. [Teoría de grafos](Contenido/GRAFOS.pdf)
-1. [Árboles binarios](Contenido/TEORIA DE ARBOLES BINARIOS.pdf)
-1. [Booleana](Contenido/BOOLEANA.pdf)
+1. [Teoría de números](https://github.com/LeonRamos5366/SmartTeach/blob/main/Contenido/1%20TEORIA%20DE%20NUMEROS.pdf)
+1. [Sistemas de codificación](https://github.com/LeonRamos5366/SmartTeach/blob/main/Contenido/2%20SISTEMAS%20DE%20CODIFICACIO%CC%81N.pdf)
+1. [Punto flotante](https://github.com/LeonRamos5366/SmartTeach/blob/main/Contenido/3%20PUNTO%20FLOTANTE.pdf)
+1. [Lógica de proposiciones](https://github.com/LeonRamos5366/SmartTeach/blob/main/Contenido/4%20LOGICA%20DE%20PROPOSICIONES.pdf)
+1. [Lógica de cuantificadores](https://github.com/LeonRamos5366/SmartTeach/blob/main/Contenido/6%20LO%CC%81GICA%20DE%20CUANTIFICADORES.pdf)
+1. [Teoría de conjuntos](https://github.com/LeonRamos5366/SmartTeach/blob/main/Contenido/7%20TEORIA%20DE%20CONJUNTOS.pdf)
+1. [Relaciones](https://github.com/LeonRamos5366/SmartTeach/blob/main/Contenido/8%20RELACIONES.pdf)
+1. [Funciones](https://github.com/LeonRamos5366/SmartTeach/blob/main/Contenido/9%20FUNCIONES.pdf)
+1. [Relaciones de recurrencia](https://github.com/LeonRamos5366/SmartTeach/blob/main/Contenido/10%20RELACIONES%20DE%20RECURRENCIA.pdf)
+1. [Teoría de grafos](https://github.com/LeonRamos5366/SmartTeach/blob/main/Contenido/11%20TEORIA%20DE%20GRAFOS.pdf)
+1. [Árboles binarios]()
+1. [Booleana]()
 
 
 #Libros de apoyo
