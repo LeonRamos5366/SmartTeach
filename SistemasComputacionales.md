@@ -18,13 +18,13 @@
     - 4.2 [Minería de datos](#minería-de-datos)
     - 4.3 [Cómputo distribuido](#cómputo-distribuido)
 
-## Algoritmia
+## 📌 Algoritmia 📌
 
-### ¿Qué es la algoritmia?
+### 📖 ¿Qué es la algoritmia? 📖
 
 La algoritmia es una disciplina fundamental en informática que se encarga del estudio y diseño de algoritmos, es decir, de secuencias de pasos lógicos y finitos que permiten resolver un problema o realizar una tarea de manera eficiente. Los algoritmos son la base de la computación y están presentes en prácticamente todos los aspectos de la tecnología moderna.
 
-### ¿Para qué sirve?
+### 🔖¿Para qué sirve?🔖
 
 - **Resolución de problemas:** Proporciona un enfoque estructurado para abordar problemas y encontrar soluciones.
 - **Optimización:** Permite desarrollar algoritmos eficientes que utilizan recursos de manera óptima, como tiempo de ejecución y memoria.
@@ -40,13 +40,13 @@ La algoritmia es una disciplina fundamental en informática que se encarga del e
 Estas referencias proporcionan una introducción completa y detallada a la algoritmia, con ejemplos prácticos, análisis y técnicas avanzadas.
 
 
-## Desarrollo de software
+## 📌 Desarrollo de software 📌
 
-### ¿Qué es el desarrollo de software?
+### 📖 ¿Qué es el desarrollo de software? 📖
 
 El desarrollo de software es el proceso de concepción, diseño, implementación, prueba y mantenimiento de programas informáticos y sistemas de software. Implica la aplicación de principios de ingeniería de software para crear soluciones tecnológicas que satisfagan las necesidades de los usuarios y las organizaciones.
 
-### ¿Para qué sirve?
+### 🔖¿Para qué sirve?🔖
 
 - **Automatización:** Permite automatizar tareas y procesos, aumentando la eficiencia y reduciendo errores.
 - **Innovación:** Facilita la creación de nuevas aplicaciones y servicios que mejoran la vida de las personas y transforman industrias enteras.
@@ -73,13 +73,13 @@ El desarrollo de software frecuentemente requiere interactuar con redes de compu
 - Stevens, W. R., Fenner, B., & Rudoff, A. M. (2004). "UNIX Network Programming, Volume 1: The Sockets Networking API". Addison-Wesley Professional.
 
 
-## Desarrollo de software de aplicación
+## 📌 Desarrollo de software de aplicación 📌
 
-### ¿Qué es el software de aplicación?
+### 📖 ¿Qué es el software de aplicación? 📖
 
 El software de aplicación se refiere a programas informáticos diseñados para realizar tareas específicas o resolver problemas en entornos cotidianos o empresariales. Estos programas son utilizados por usuarios finales para llevar a cabo diversas actividades, desde la gestión de información hasta la productividad personal y profesional.
 
-### ¿Para qué sirve?
+### 🔖¿Para qué sirve?🔖
 
 - **Automatización de tareas:** Permite automatizar procesos repetitivos o complejos para aumentar la eficiencia y reducir errores.
 - **Facilita la interacción con sistemas informáticos:** Proporciona interfaces intuitivas que permiten a los usuarios interactuar con sistemas informáticos de manera fácil y efectiva.
@@ -110,12 +110,12 @@ La seguridad informática es un aspecto crítico en el desarrollo de software de
 - Bishop, M. (2018). "Computer Security: Art and Science". Pearson.
 
 
-## Soluciones de cómputo inteligente
-### ¿Qué son las Soluciones de Cómputo Inteligente?
+## 📌 Soluciones de cómputo inteligente 📌
+### 📖 ¿Qué son las Soluciones de Cómputo Inteligente? 📖
 
 Las soluciones de cómputo inteligente son sistemas informáticos diseñados para imitar el comportamiento humano y resolver problemas de manera autónoma, eficiente y adaptativa. Estas soluciones utilizan tecnologías como la inteligencia artificial, la minería de datos y el cómputo distribuido para procesar grandes cantidades de datos y obtener información útil para la toma de decisiones.
 
-### ¿Para qué sirven?
+### 🔖¿Para qué sirven?🔖
 
 - **Automatización de tareas complejas:** Permiten automatizar procesos que requieren análisis y toma de decisiones complejas.
 - **Optimización de recursos:** Utilizan algoritmos inteligentes para optimizar el uso de recursos como tiempo, energía y espacio.
