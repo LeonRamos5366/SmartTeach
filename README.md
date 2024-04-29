@@ -22,7 +22,25 @@
 
 ### Análisis y diseño de algoritmos
 
-Aquí se pueden incluir recursos sobre análisis y diseño de algoritmos.
+## ¿Qué es la algoritmia?
+
+La algoritmia es una disciplina fundamental en informática que se encarga del estudio y diseño de algoritmos, es decir, de secuencias de pasos lógicos y finitos que permiten resolver un problema o realizar una tarea de manera eficiente. Los algoritmos son la base de la computación y están presentes en prácticamente todos los aspectos de la tecnología moderna.
+
+### ¿Para qué sirve?
+
+- **Resolución de problemas:** Proporciona un enfoque estructurado para abordar problemas y encontrar soluciones.
+- **Optimización:** Permite desarrollar algoritmos eficientes que utilizan recursos de manera óptima, como tiempo de ejecución y memoria.
+- **Automatización:** Facilita la automatización de tareas repetitivas o complejas mediante la creación de algoritmos adecuados.
+
+### Referencias bibliográficas
+
+- Cormen, T. H., Leiserson, C. E., Rivest, R. L., & Stein, C. (2009). "Introduction to Algorithms". MIT Press.
+- Sedgewick, R., & Wayne, K. (2011). "Algorithms". Addison-Wesley Professional.
+- Kleinberg, J., & Tardos, É. (2006). "Algorithm Design". Pearson/Addison-Wesley.
+- Skiena, S. S. (2008). "The Algorithm Design Manual". Springer.
+
+Estas referencias proporcionan una introducción completa y detallada a la algoritmia, con ejemplos prácticos, análisis y técnicas avanzadas.
+
 
 ### Estructura de datos
 
