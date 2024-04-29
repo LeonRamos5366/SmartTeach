@@ -20,7 +20,7 @@
 
 ## Algoritmia
 
-## ¿Qué es la algoritmia?
+### ¿Qué es la algoritmia?
 
 La algoritmia es una disciplina fundamental en informática que se encarga del estudio y diseño de algoritmos, es decir, de secuencias de pasos lógicos y finitos que permiten resolver un problema o realizar una tarea de manera eficiente. Los algoritmos son la base de la computación y están presentes en prácticamente todos los aspectos de la tecnología moderna.
 
@@ -42,7 +42,7 @@ Estas referencias proporcionan una introducción completa y detallada a la algor
 
 ## Desarrollo de software
 
-## ¿Qué es el desarrollo de software?
+### ¿Qué es el desarrollo de software?
 
 El desarrollo de software es el proceso de concepción, diseño, implementación, prueba y mantenimiento de programas informáticos y sistemas de software. Implica la aplicación de principios de ingeniería de software para crear soluciones tecnológicas que satisfagan las necesidades de los usuarios y las organizaciones.
 
@@ -75,7 +75,7 @@ El desarrollo de software frecuentemente requiere interactuar con redes de compu
 
 ## Desarrollo de software de aplicación
 
-## ¿Qué es el software de aplicación?
+### ¿Qué es el software de aplicación?
 
 El software de aplicación se refiere a programas informáticos diseñados para realizar tareas específicas o resolver problemas en entornos cotidianos o empresariales. Estos programas son utilizados por usuarios finales para llevar a cabo diversas actividades, desde la gestión de información hasta la productividad personal y profesional.
 
@@ -111,7 +111,7 @@ La seguridad informática es un aspecto crítico en el desarrollo de software de
 
 
 ## Soluciones de cómputo inteligente
-## ¿Qué son las Soluciones de Cómputo Inteligente?
+### ¿Qué son las Soluciones de Cómputo Inteligente?
 
 Las soluciones de cómputo inteligente son sistemas informáticos diseñados para imitar el comportamiento humano y resolver problemas de manera autónoma, eficiente y adaptativa. Estas soluciones utilizan tecnologías como la inteligencia artificial, la minería de datos y el cómputo distribuido para procesar grandes cantidades de datos y obtener información útil para la toma de decisiones.
 
