@@ -15,15 +15,14 @@ Este repositorio está dedicado a proporcionar recursos de entrenamiento y prepa
 - **Consejos y Estrategias:** Consejos útiles y estrategias de estudio para prepararte de manera efectiva y enfrentar con confianza los EGEL.
 
 ¡Explora los recursos disponibles y comienza tu preparación para los Exámenes Generales de Egreso!
+## Seleccióna tu curso
+- [🔗 Link : Sistemas Computacionales](https://github.com/LeonRamos5366/SmartTeach/blob/main/SistemasComputacionales.md)
+- [🔗 Link : Informática](https://github.com/LeonRamos5366/SmartTeach/blob/main/Informatica.md)
 
 ## Instructor.
 <img src="./Images/leon.jpg" width="130" height="200" />  Mtro. León Miguel Ramos Corchado
 
 ### Hola a tod@s👋,
-
-## Seleccióna tu curso
-- [🔗 Link : Sistemas Computacionales](https://github.com/LeonRamos5366/SmartTeach/blob/main/SistemasComputacionales.md)
-- [🔗 Link : Informática](https://github.com/LeonRamos5366/SmartTeach/blob/main/Informatica.md)
 
 ## Tecnologías:
 [![Apple](https://img.shields.io/badge/iOS-999999?style=for-the-badge&logo=apple&logoColor=white&labelColor=101010)]()
