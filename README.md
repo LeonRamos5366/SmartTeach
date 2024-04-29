@@ -1,58 +1,79 @@
-# Implementación de Sistemas de Información 
-<img src="./Images/leon.jpg" width="130" height="200" />  Mtro. León Miguel Ramos Corchado
+# Índice
 
-### Hola a tod@s👋,
+1. [Algoritmia](#algoritmia)
+    1.1 [Análisis y diseño de algoritmos](#analisis-y-diseño-de-algoritmos)
+    1.2 [Estructura de datos](#estructura-de-datos)
+    1.3 [Matemáticas Discretas](#matemáticas-discretas)
+    1.4 [Lógica computacional](#lógica-computacional)
+2. [Desarrollo de software](#desarrollo-de-software)
+    2.1 [Arquitectura de computadoras y sistemas operativos](#arquitectura-de-computadoras-y-sistemas-operativos)
+    2.2 [Compiladores](#compiladores)
+    2.3 [Redes de computadoras](#redes-de-computadoras)
+3. [Desarrollo de software de aplicación](#desarrollo-de-software-de-aplicación)
+    3.1 [Lenguajes de programación](#lenguajes-de-programación)
+    3.2 [Bases de datos](#bases-de-datos)
+    3.3 [Seguridad informática](#seguridad-informática)
+4. [Soluciones de cómputo inteligente](#soluciones-de-cómputo-inteligente)
+    4.1 [Inteligencia artificial](#inteligencia-artificial)
+    4.2 [Minería de datos](#minería-de-datos)
+    4.3 [Cómputo distribuido](#cómputo-distribuido)
 
-## En este curso aprenderemos lo siguiente:
-* ### Características de los Sistemas de Información
-#### Objetivo: 
-Comprender las características fundamentales de los sistemas de información, como la recopilación, procesamiento, almacenamiento y distribución de datos ademas de revisar la relevancia de la integridad, confidencialidad y disponibilidad de la información en los sistemas.
+## Algoritmia
 
-[🔗 Link : Características de los Sistemas de Información](https://github.com/LeonRamos5366/SmartTeach/blob/main/Caracteristicas_Sistemas/Caracteristicas.md)
+### Análisis y diseño de algoritmos
 
-* ### Conceptos de Programación
-#### Objetivo: 
-Analizar y comprender los conceptos básicos de programación, como variables, estructuras de control (bucles, condicionales), funciones y objetos. Considerando los dos paradigmas actuales de programación PED & POO.
+Aquí se pueden incluir recursos sobre análisis y diseño de algoritmos.
 
-[🔗 Git GitHub?](https://github.com/Hispano/Guia-sobre-Git-Github-y-Metodologia-de-Desarrollo-de-Software-usando-Git-y-Github)
+### Estructura de datos
 
-<br>
-***Explicando Conceptos Básicos de Programación***
+Esta sección puede contener recursos sobre estructuras de datos.
 
-| No. | Name | File |
-|------|------|------|
-|1.|Metodología de la Programación|[🔗 Link : Metodología Tradicional o Ágil](https://github.com/LeonRamos5366/SmartTeach/blob/main/Programaci%C3%B3n/Tradicional_vs_%C3%A1gil.pdf)|
-|2.|Algoritmos, D. de flujo y Programas|[🔗 Link : De Junior hasta Senior](https://github.com/LeonRamos5366/SmartTeach/blob/main/Programaci%C3%B3n/Programaci%C3%B3n.md)|
-|3.|Estructuras Algorítmicas Selectivas|[🔗 Link : if, if-else](https://github.com/JorgeDeLosSantos/apuntes-python/blob/master/Estructuras%20de%20control.ipynb)|
-|4.|Estructuras Algorítmicas Repetitivas|[🔗 Link : while, do while, for](https://github.com/JorgeDeLosSantos/apuntes-python/blob/master/Funciones.ipynb)|
-|5.|Programación Secuancial|[🔗 Link : Programación Secuencial](https://github.com/LeonRamos5366/SmartTeach/blob/main/Programaci%C3%B3nSecuencial.md))|
-|6.|Estructuras de Datos|[🔗 Link : arreglos, pilas, colas, grafos](https://github.com/Mgobeaalcoba/data_structs_python/blob/main/README.md)
-|7.|Matematicas Discretas|[🔗 Link : matemáticas discretas](https://github.com/LeonRamos5366/SmartTeach/blob/main/matematicasdiscretas.md)|
-<br>
+### Matemáticas Discretas
 
-* ### Bases de Datos
-#### Objetivo: Enteneder los fundamentos de las bases de datos, incluyendo los diferentes tipos de bases de datos (relacionales, NoSQL), el modelado de datos, consultas SQL y la importancia de la integridad de los datos.
+Recursos relacionados con matemáticas discretas.
 
-Lenguaje SQL con Mysql [Aquí](https://github.com/jvadillo/guia-rapida-mysql/blob/master/README.md)
+### Lógica computacional
 
-Compilador de Mysql Online [Aquí](https://paiza.io/en/projects/new?language=mysql)
+Recursos relacionados con la lógica computacional.
 
-![](./Images/sqlandno.jpeg)
+## Desarrollo de software
 
-* ### Implementación de aplicaciones Informáticas
-#### Objetivo: Comprender la importancia de la implementación adecuada de aplicaciones informáticas, abordando temas como la arquitectura de software, el ciclo de vida del desarrollo de software, las metodologías ágiles y las pruebas de software.
+### Arquitectura de computadoras y sistemas operativos
 
+Recursos relacionados con la arquitectura de computadoras y sistemas operativos.
 
+### Compiladores
 
-![](./Images/Sistemas.jpg)
+Recursos sobre compiladores.
 
-<p align="center"> 
-  Visitor count<br>
-  <img src="https://profile-counter.glitch.me/Arduino_Projects/count.svg" />
-</p>
+### Redes de computadoras
 
-#### Puedes apoyar mi trabajo haciendo "☆ Star" en el repo o nominarme a "GitHub Star". ¡Gracias!
+Recursos sobre redes de computadoras.
 
+## Desarrollo de software de aplicación
 
+### Lenguajes de programación
 
-<a rel="license" href="http://creativecommons.org/licenses/by-nc-nd/4.0/"><img alt="Creative Commons License" style="border-width:0" src="https://i.creativecommons.org/l/by-nc-nd/4.0/88x31.png" /></a><br />This work is licensed under a <a rel="license" href="http://creativecommons.org/licenses/by-nc-nd/4.0/">Creative Commons Attribution-NonCommercial-NoDerivatives 4.0 International License</a>.
+Recursos sobre diferentes lenguajes de programación.
+
+### Bases de datos
+
+Recursos sobre bases de datos.
+
+### Seguridad informática
+
+Recursos sobre seguridad informática.
+
+## Soluciones de cómputo inteligente
+
+### Inteligencia artificial
+
+Recursos sobre inteligencia artificial.
+
+### Minería de datos
+
+Recursos sobre minería de datos.
+
+### Cómputo distribuido
+
+Recursos sobre cómputo distribuido.
