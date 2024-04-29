@@ -13,7 +13,7 @@
     - 3.1 [Lenguajes de programación](#lenguajes-de-programación)
     - 3.2 [Bases de datos](#bases-de-datos)
     - 3.3 [Seguridad informática](#seguridad-informática)
-4. [Soluciones de cómputo inteligente](##soluciones-de-cómputo-inteligente)
+4. [Soluciones de cómputo inteligente](#soluciones-de-cómputo-inteligente)
     - 4.1 [Inteligencia artificial](#inteligencia-artificial)
     - 4.2 [Minería de datos](#minería-de-datos)
     - 4.3 [Cómputo distribuido](#cómputo-distribuido)
@@ -110,7 +110,7 @@ La seguridad informática es un aspecto crítico en el desarrollo de software de
 - Bishop, M. (2018). "Computer Security: Art and Science". Pearson.
 
 
-## Soluciones de cómputo inteligente 📌
+## Soluciones de cómputo inteligente
 ### 📖 ¿Qué son las Soluciones de Cómputo Inteligente? 📖
 
 Las soluciones de cómputo inteligente son sistemas informáticos diseñados para imitar el comportamiento humano y resolver problemas de manera autónoma, eficiente y adaptativa. Estas soluciones utilizan tecnologías como la inteligencia artificial, la minería de datos y el cómputo distribuido para procesar grandes cantidades de datos y obtener información útil para la toma de decisiones.
