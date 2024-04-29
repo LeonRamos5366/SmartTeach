@@ -13,7 +13,7 @@
     - 3.1 [Lenguajes de programación](#lenguajes-de-programación)
     - 3.2 [Bases de datos](#bases-de-datos)
     - 3.3 [Seguridad informática](#seguridad-informática)
-4. [Soluciones de cómputo inteligente](#soluciones-de-cómputo-inteligente)
+4. [Soluciones de cómputo inteligente](##soluciones-de-cómputo-inteligente)
     - 4.1 [Inteligencia artificial](#inteligencia-artificial)
     - 4.2 [Minería de datos](#minería-de-datos)
     - 4.3 [Cómputo distribuido](#cómputo-distribuido)
