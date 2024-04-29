@@ -6,7 +6,7 @@
     - 1.3 [Matemáticas Discretas](#matemáticas-discretas)
     - 1.4 [Lógica computacional](#lógica-computacional)
 2. [Desarrollo de software](#desarrollo-de-software)
-    - 2.1 [Arquitectura de computadoras y sistemas operativos](#arquitectura-de-computadoras-y-sistemas-operativos)
+    - 2.1 [Arquitectura de computadoras y sistemas operativos](https://github.com/LeonRamos5366/SmartTeach/blob/main/Arquitecturadecomputadorasysistemasoperativos.md)
     - 2.2 [Compiladores](#compiladores)
     - 2.3 [Redes de computadoras](#redes-de-computadoras)
 3. [Desarrollo de software de aplicación](#desarrollo-de-software-de-aplicación)
