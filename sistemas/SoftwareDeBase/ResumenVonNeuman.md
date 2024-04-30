@@ -96,3 +96,149 @@ computer.run()
 
 # Imprimir el contenido de la memoria después de ejecutar el programa
 print(computer.memory)
+
+
+# Conjunto de Instrucciones y Jerarquía de Memoria
+
+En la arquitectura de computadoras, el conjunto de instrucciones y la jerarquía de memoria son conceptos fundamentales que influyen en el diseño y funcionamiento de un sistema computacional.
+
+## Conjunto de Instrucciones
+
+El conjunto de instrucciones, también conocido como ISA (Arquitectura de Conjunto de Instrucciones), define el conjunto de operaciones que una CPU puede ejecutar directamente. Estas operaciones pueden incluir operaciones aritméticas, lógicas, de transferencia de datos y de control de flujo. Cada instrucción está codificada en un formato específico y tiene un significado particular para la CPU.
+# Conjunto de Instrucciones para Arquitectura x86
+
+El conjunto de instrucciones para la arquitectura x86 es ampliamente utilizado en computadoras personales y servidores. A lo largo de los años, ha evolucionado y se ha expandido para admitir una amplia gama de funcionalidades. A continuación, se presenta una breve descripción de algunos de los conjuntos de instrucciones más comunes para la arquitectura x86:
+
+1. **Movimiento de Datos:**
+   - `MOV`: Mueve datos de una ubicación a otra.
+   - `PUSH` / `POP`: Empuja un valor en la pila / Saca un valor de la pila.
+
+2. **Aritmética y Lógica:**
+   - `ADD`, `SUB`, `MUL`, `DIV`: Operaciones aritméticas.
+   - `AND`, `OR`, `XOR`, `NOT`: Operaciones lógicas.
+
+3. **Transferencia de Control:**
+   - `JMP`: Salto incondicional a una dirección específica.
+   - `CALL`, `RET`: Llamada y retorno de subrutinas.
+   - `JZ`, `JNZ`, `JE`, `JNE`: Saltos condicionales basados en la bandera de cero.
+
+4. **Comparación y Pruebas:**
+   - `CMP`: Compara dos valores.
+   - `TEST`: Realiza una operación AND entre dos valores y actualiza las banderas.
+
+5. **Manipulación de Cadena y Bucles:**
+   - `MOVS`: Mueve una cadena de datos de una ubicación a otra.
+   - `LODS`, `STOS`: Carga y almacena datos en la memoria.
+   - `REP`, `REPE`, `REPZ`, `REPNE`, `REPNZ`: Prefijos de repetición para bucles.
+
+6. **Manipulación de Pila:**
+   - `PUSH`, `POP`: Empuja y saca valores de la pila.
+   - `CALL`, `RET`: Llamada y retorno de subrutinas.
+
+7. **Instrucciones de Control de Segmento:**
+   - `MOV`: Carga un valor en un registro de segmento.
+   - `PUSH`, `POP`: Empuja y saca valores de registros de segmento.
+
+8. **Operaciones de Punto Flotante (FPU):**
+   - `FADD`, `FSUB`, `FMUL`, `FDIV`: Operaciones aritméticas en punto flotante.
+
+9. **Multimedia y SIMD (Single Instruction, Multiple Data):**
+   - `MMX`, `SSE`, `AVX`: Conjuntos de instrucciones para procesamiento multimedia y SIMD.
+
+Estas son solo algunas de las instrucciones más comunes en el conjunto de instrucciones x86. El conjunto completo es bastante extenso y puede variar según la versión específica del procesador x86 y su conjunto de características. Si deseas aprender más sobre las instrucciones x86, te recomendaría consultar la documentación oficial de Intel o AMD, que proporciona información detallada sobre cada instrucción y su funcionamiento.
+
+
+### Ejemplo Práctico en Python
+
+Supongamos que queremos implementar una CPU simple en Python que pueda ejecutar un conjunto básico de instrucciones. Aquí tienes un ejemplo de cómo podríamos definir algunas instrucciones y su ejecución:
+
+```python
+class CPU:
+    def __init__(self):
+        self.registers = [0] * 4  # Registros de propósito general
+        self.pc = 0  # Contador de programa
+
+    def execute_instruction(self, instruction):
+        opcode, operands = instruction.split(' ')
+        if opcode == 'LOAD':
+            register, value = operands.split(',')
+            self.registers[int(register)] = int(value)
+        elif opcode == 'ADD':
+            dest_reg, src_reg1, src_reg2 = operands.split(',')
+            self.registers[int(dest_reg)] = self.registers[int(src_reg1)] + self.registers[int(src_reg2)]
+        elif opcode == 'STORE':
+            register, address = operands.split(',')
+            MEMORY[int(address)] = self.registers[int(register)]
+
+# Programa de prueba
+MEMORY = [0] * 100
+cpu = CPU()
+cpu.execute_instruction('LOAD 1,10')  # Cargar el valor 10 en el registro 1
+cpu.execute_instruction('LOAD 2,20')  # Cargar el valor 20 en el registro 2
+cpu.execute_instruction('ADD 3,1,2')   # Sumar los valores en los registros 1 y 2 y almacenar el resultado en el registro 3
+cpu.execute_instruction('STORE 3,30')  # Almacenar el valor del registro 3 en la dirección de memoria 30
+print(MEMORY[30])  # Imprimir el contenido de la dirección de memoria 30
+
+# Jerarquía de Memoria en Arquitectura x86
+
+La jerarquía de memoria en arquitectura x86 se refiere a la organización de diferentes tipos de memoria en un sistema computacional, que varían en velocidad, tamaño y costo. Esta jerarquía está diseñada para optimizar el rendimiento y la eficiencia del sistema al proporcionar acceso rápido a los datos más utilizados mientras se mantiene un equilibrio entre la capacidad y el costo.
+
+## Niveles de la Jerarquía de Memoria
+
+1. **Memoria Caché L1, L2, L3:**
+   - La memoria caché es una memoria de alta velocidad integrada en el procesador que almacena copias de datos y ​​código recientemente utilizados.
+   - Los niveles de caché (L1, L2, L3) están organizados en una jerarquía, donde L1 es la más pequeña y más rápida, seguida de L2 y L3.
+   - La caché L1 generalmente está dividida en cachés de instrucciones y datos.
+
+2. **Memoria RAM (Random Access Memory):**
+   - La RAM es la memoria principal del sistema donde se almacenan programas y datos mientras se están utilizando.
+   - La RAM es más lenta que la caché pero ofrece una capacidad de almacenamiento mucho mayor.
+
+3. **Memoria de Almacenamiento Secundario:**
+   - Este nivel incluye dispositivos de almacenamiento de datos permanentes, como discos duros (HDD) y unidades de estado sólido (SSD).
+   - Aunque son más lentos que la RAM, tienen una capacidad mucho mayor y retienen los datos incluso cuando la alimentación se apaga.
+
+## Funcionamiento de la Jerarquía de Memoria
+
+El funcionamiento de la jerarquía de memoria implica que los datos se mueven entre estos diferentes niveles de memoria según su frecuencia de acceso y prioridad. Los datos más utilizados se almacenan en las cachés L1, L2 y L3 para un acceso rápido por parte del procesador. Si un dato no está presente en la caché, se buscará en la RAM y, si es necesario, se traerá desde el almacenamiento secundario.
+
+## Ejemplo Práctico en Python
+
+Aquí tienes un ejemplo en Python que simula el acceso a diferentes niveles de la jerarquía de memoria:
+
+```python
+class MemoryHierarchy:
+    def __init__(self):
+        self.cache = {}  # Memoria caché
+        self.ram = {}    # Memoria RAM
+        self.disk = {}   # Memoria de almacenamiento secundario
+
+    def read_data(self, address):
+        if address in self.cache:
+            print("Leyendo desde la caché:", self.cache[address])
+        elif address in self.ram:
+            print("Leyendo desde la RAM:", self.ram[address])
+        elif address in self.disk:
+            print("Leyendo desde el almacenamiento secundario:", self.disk[address])
+        else:
+            print("La dirección solicitada no existe.")
+
+    def write_data(self, address, data):
+        if address < 100:  # Si la dirección está en la caché
+            print("Escribiendo en la caché:", data)
+            self.cache[address] = data
+        elif address < 10000:  # Si la dirección está en la RAM
+            print("Escribiendo en la RAM:", data)
+            self.ram[address] = data
+        else:  # Si la dirección está en el almacenamiento secundario
+            print("Escribiendo en el almacenamiento secundario:", data)
+            self.disk[address] = data
+
+# Uso de la jerarquía de memoria
+memory = MemoryHierarchy()
+memory.write_data(50, 'Datos importantes')  # Escribir datos en la caché
+memory.read_data(50)  # Leer datos desde la caché
+memory.read_data(500)  # Leer datos desde la RAM
+memory.read_data(50000)  # Leer datos desde el almacenamiento secundario
+
+En este ejemplo, la clase MemoryHierarchy simula la jerarquía de memoria con una caché, una RAM y un almacenamiento secundario. Dependiendo de la dirección solicitada, la clase busca primero en la caché, luego en la RAM y finalmente en el almacenamiento secundario para leer o escribir datos.
