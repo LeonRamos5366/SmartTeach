@@ -3,7 +3,7 @@
 ### Arquitecturas de Computadoras
 
 - **Introducción a la Arquitectura de Computadoras:** Conceptos básicos sobre cómo están diseñadas y construidas las computadoras, incluyendo la CPU, la memoria, la unidad de almacenamiento y los buses.
-- [EnsambladorResumen](#resumenEnsamblador.md)
+- [EnsambladorResumen](https://github.com/LeonRamos5366/SmartTeach/blob/main/sistemas/SoftwareDeBase/resumenEnsamblador.md)
 - **Organización del Computador:** Detalles sobre la estructura interna de la computadora, incluyendo la arquitectura de Von Neumann, el conjunto de instrucciones y la jerarquía de memoria.
 - **Procesadores y Microarquitectura:** Exploración de los componentes internos de los procesadores, como la unidad de control, la unidad aritmético-lógica y la memoria caché.
 
