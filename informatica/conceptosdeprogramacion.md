@@ -1,6 +1,4 @@
 
-# Preparación para Examen de Conceptos de Programación
-
 ## Paradigmas de Programación
 
 ### Programación Imperativa
