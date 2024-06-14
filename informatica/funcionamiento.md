@@ -5,13 +5,13 @@ En el contexto empresarial actual, la eficiencia y efectividad de los procesos o
 
 ## Procesos Organizacionales
 
-Los procesos organizacionales son conjuntos de actividades o tareas interrelacionadas que se llevan a cabo para alcanzar un objetivo específico dentro de una organización. Estos procesos pueden ser operacionales, tácticos o estratégicos. Los procesos operacionales incluyen actividades diarias como la producción y el servicio al cliente, mientras que los procesos tácticos y estratégicos se centran en la planificación y dirección a largo plazo de la organización.
+Los [procesos](https://repositorio.autonoma.edu.pe/handle/20.500.13067/392) organizacionales son conjuntos de actividades o tareas interrelacionadas que se llevan a cabo para alcanzar un objetivo específico dentro de una organización. Estos procesos pueden ser operacionales, tácticos o estratégicos. Los procesos operacionales incluyen actividades diarias como la producción y el servicio al cliente, mientras que los procesos tácticos y estratégicos se centran en la planificación y dirección a largo plazo de la organización.
 
 La eficiencia de estos procesos es vital para el éxito de la organización. La gestión de procesos empresariales (BPM) se ha convertido en una disciplina importante que busca analizar, diseñar, implementar, monitorizar y optimizar los procesos de negocio. La tecnología de la información juega un papel esencial en esta gestión, proporcionando herramientas y sistemas que permiten automatizar y mejorar los procesos.
 
 ## UML como Herramienta de Modelado
 
-El Lenguaje Unificado de Modelado (UML) es una herramienta estandarizada que se utiliza para visualizar, especificar, construir y documentar los artefactos de un sistema de software. UML proporciona una manera de diseñar y entender sistemas complejos mediante diagramas que representan diferentes aspectos del sistema.
+El Lenguaje Unificado de Modelado [(UML)](https://www.uml-diagrams.org/) es una herramienta estandarizada que se utiliza para visualizar, especificar, construir y documentar los artefactos de un sistema de software. UML proporciona una manera de diseñar y entender sistemas complejos mediante diagramas que representan diferentes aspectos del sistema.
 
 - **Diagramas de Casos de Uso**: Estos diagramas ayudan a identificar y representar las interacciones entre los usuarios (actores) y el sistema. Son útiles para capturar los requisitos funcionales del sistema.
 - **Diagramas de Clases**: Representan la estructura estática del sistema mostrando las clases, atributos, métodos y las relaciones entre ellas.
