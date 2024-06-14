@@ -12,7 +12,10 @@
 | 4. Función Informática | 4.4. Evaluación informática | [Contenido](#44-evaluación-informática) |
 
 ## 3.1. Características de sistemas de información
-Contenido aquí.
+Prepararse para un examen sobre las características de los sistemas de información implica entender varios conceptos clave que abarcan desde la definición básica hasta los componentes y características específicas. A continuación, te presento un resumen de los aspectos más relevantes:
+
+### Características de los Sistemas de Información
+Los [sistemas de información](https://github.com/LeonRamos5366/SmartTeach/blob/main/informatica/sistemasdeinformaci%C3%B3n.md) son esenciales para el funcionamiento moderno de las organizaciones. Comprender sus características y componentes clave es vital para aprovechar al máximo su potencial y asegurar que la información utilizada para la toma de decisiones sea precisa, segura y accesible. Para tu examen, asegúrate de poder explicar cada una de estas características y su importancia en el contexto organizacional.
 
 ## 3.2. Conceptos de programación
 Contenido aquí.
