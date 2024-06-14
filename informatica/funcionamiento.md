@@ -34,6 +34,3 @@ El proceso de creación de sistemas de información a medida generalmente sigue 
 5. **Implementación**: El sistema se despliega en el entorno de producción. Se realiza la migración de datos y se asegura que el sistema esté operativo.
 6. **Mantenimiento y Soporte**: Después de la implementación, se proporciona soporte continuo y mantenimiento para asegurar que el sistema siga funcionando correctamente y se realicen mejoras según sea necesario.
 
-## Conclusión
-
-La interrelación entre los procesos organizacionales, UML como herramienta de modelado y la creación de sistemas de información a medida es fundamental para el desarrollo de soluciones tecnológicas efectivas. Los procesos organizacionales proporcionan el contexto y los requisitos, UML ofrece una manera estructurada y clara de diseñar y comunicar estos requisitos, y el desarrollo a medida garantiza que la solución final esté perfectamente alineada con las necesidades específicas de la organización. Este enfoque integral permite a las organizaciones optimizar sus operaciones, mejorar la toma de decisiones y mantener una ventaja competitiva en el mercado.
