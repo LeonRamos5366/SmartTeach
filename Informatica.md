@@ -18,7 +18,16 @@ Prepararse para un examen sobre las características de los sistemas de informac
 Los [sistemas de información](https://github.com/LeonRamos5366/SmartTeach/blob/main/informatica/sistemasdeinformaci%C3%B3n.md) son esenciales para el [funcionamiento](https://github.com/LeonRamos5366/SmartTeach/blob/main/informatica/funcionamiento.md) moderno de las organizaciones. Comprender sus características y componentes clave es vital para aprovechar al máximo su potencial y asegurar que la información utilizada para la toma de decisiones sea precisa, segura y accesible. Para tu examen, asegúrate de poder explicar cada una de estas características y su importancia en el contexto organizacional.
 
 ## 3.2. Conceptos de programación
-Contenido aquí.
+
+Los [conceptos de programación](https://github.com/LeonRamos5366/SmartTeach/blob/main/informatica/conceptosdeprogramacion.md) abarcan una variedad de temas fundamentales para comprender cómo funcionan los lenguajes de programación y cómo se desarrollan programas de software. Algunos de los conceptos clave incluyen:
+
+Variables: Elementos para almacenar datos y valores.
+Estructuras de Control: Instrucciones que determinan el flujo de ejecución del programa.
+Funciones: Bloques de código reutilizables que realizan tareas específicas.
+Tipos de Datos: Clasificaciones de datos que determinan el tipo de operaciones que se pueden realizar.
+Algoritmos: Conjunto de instrucciones paso a paso para resolver un problema.
+Estructuras de Datos: Formas de organizar y almacenar datos para facilitar su acceso y modificación.
+
 
 ## 3.3. Bases de datos
 Contenido aquí.
