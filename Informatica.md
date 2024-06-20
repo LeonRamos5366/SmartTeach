@@ -30,7 +30,15 @@ Estructuras de Datos: Formas de organizar y almacenar datos para facilitar su ac
 
 
 ## 3.3. Bases de datos
-Contenido aquí.
+
+### Bases de Datos
+Una [base de datos](https://github.com/beduExpert/A1-Introduccion-a-Bases-de-Datos-MASIVO/blob/main/Sesion-01/Readme.md) es una colección estructurada de datos que se almacenan de manera organizada para que puedan ser accedidos y gestionados de forma eficiente. Las bases de datos pueden contener información de diferentes tipos, como texto, números, imágenes, vídeos, entre otros.
+
+### Sistemas Gestores de Bases de Datos (SGBD)
+Un [Sistema Gestor de Bases de Datos](https://gestionbasesdatos.readthedocs.io/es/latest/) (SGBD) es un software que facilita la creación, organización, gestión y manipulación de bases de datos. Los SGBD proporcionan una interfaz para que los usuarios y las aplicaciones puedan interactuar con la base de datos, realizando operaciones como inserción, actualización, eliminación y consulta de datos.
+
+Algunos ejemplos de SGBD populares incluyen MySQL, PostgreSQL, Oracle Database, Microsoft SQL Server, MongoDB, entre otros. Cada uno de estos sistemas tiene sus propias características, capacidades y enfoques para la gestión de datos, lo que los hace adecuados para diferentes tipos de aplicaciones y entornos.
+
 
 ## 3.4. Implementación de aplicaciones informáticas
 Contenido aquí.
