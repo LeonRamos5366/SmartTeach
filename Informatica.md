@@ -41,7 +41,7 @@ Algunos ejemplos de SGBD populares incluyen MySQL, PostgreSQL, Oracle Database, 
 
 
 ## 3.4. Implementación de aplicaciones informáticas
-La implementación efectiva de aplicaciones informáticas es crucial para asegurar que las soluciones tecnológicas se integren perfectamente con las operaciones y procesos de la organización. Algunos aspectos clave de la implementación de aplicaciones incluyen:
+La (implementación)[https://github.com/LeonRamos5366/SmartTeach/blob/main/informatica/implementacion.md] efectiva de aplicaciones informáticas es crucial para asegurar que las soluciones tecnológicas se integren perfectamente con las operaciones y procesos de la organización. Algunos aspectos clave de la implementación de aplicaciones incluyen:
 
 ### Planificación y diseño:
 
