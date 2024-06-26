@@ -41,7 +41,8 @@ Algunos ejemplos de SGBD populares incluyen MySQL, PostgreSQL, Oracle Database, 
 
 
 ## 3.4. Implementación de aplicaciones informáticas
-Contenido aquí.
+La implementación de aplicaciones informáticas es un proceso complejo que involucra múltiples disciplinas y tecnologías.
+<img src="./Images/steps-BCD.jpg  /> 
 
 ## 4.1. Gestión de la función informática
 Contenido aquí.
