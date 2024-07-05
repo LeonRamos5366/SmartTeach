@@ -70,7 +70,7 @@ La (implementación)[https://github.com/LeonRamos5366/SmartTeach/blob/main/infor
 Una implementación efectiva garantiza que la aplicación informática se integre sin problemas con los procesos empresariales, maximizando así los beneficios y el retorno de la inversión para la organización.
 
 
-## 4.1. (Gestión de la función informática)[https://youtu.be/Z1awPMuNbfY?si=EAZwsz8cDvg16i8R]
+## 4.1. [Gestión de la función informática](https://youtu.be/Z1awPMuNbfY?si=EAZwsz8cDvg16i8R)
 ### Competencias en Administración y Planeación Estratégica en Informática
 
 La administración y planeación estratégica de la función informática requiere de una serie de competencias clave estas son:
