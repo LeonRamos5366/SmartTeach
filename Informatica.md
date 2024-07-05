@@ -70,8 +70,46 @@ La (implementación)[https://github.com/LeonRamos5366/SmartTeach/blob/main/infor
 Una implementación efectiva garantiza que la aplicación informática se integre sin problemas con los procesos empresariales, maximizando así los beneficios y el retorno de la inversión para la organización.
 
 
-## 4.1. Gestión de la función informática
-Contenido aquí.
+## 4.1. (Gestión de la función informática)[https://youtu.be/Z1awPMuNbfY?si=EAZwsz8cDvg16i8R]
+### Competencias en Administración y Planeación Estratégica en Informática
+
+La administración y planeación estratégica de la función informática requiere de una serie de competencias clave estas son:
+
+- **Gestión de Proyectos de TI**
+  - Planificación, ejecución y control de proyectos informáticos.
+  - Uso de metodologías ágiles y enfoques tradicionales (Waterfall).
+  - Coordinación de equipos y recursos.
+
+- **Gestión de Recursos Tecnológicos**
+  - Administración de hardware, software, redes y otros recursos tecnológicos.
+  - Implementación de políticas de seguridad y mantenimiento de la infraestructura informática.
+
+- **Análisis y Diseño de Sistemas**
+  - Identificación de requerimientos de sistemas de información.
+  - Diseño de soluciones informáticas efectivas y eficientes.
+
+- **Gestión de Servicios de TI**
+  - Implementación de procesos ITIL para la provisión de servicios de TI.
+  - Garantía de la calidad y mejora continua de los servicios de tecnología.
+
+- **Gestión Estratégica de Tecnología**
+  - Alineación de la tecnología con los objetivos y la estrategia empresarial.
+  - Evaluación de nuevas tecnologías y su impacto en la organización.
+
+- **Gestión del Cambio y la Innovación**
+  - Liderazgo en la adopción de nuevas tecnologías y procesos.
+  - Gestión del cambio organizacional para maximizar el valor de la tecnología.
+
+- **Gestión de Riesgos y Cumplimiento**
+  - Identificación y mitigación de riesgos en el entorno tecnológico.
+  - Cumplimiento de regulaciones y estándares de seguridad.
+
+- **Gestión de Relaciones con los Interesados**
+  - Comunicación efectiva con usuarios, clientes y socios comerciales.
+  - Negociación y gestión de expectativas en proyectos tecnológicos.
+
+Estas competencias son fundamentales para el éxito en la administración y planeación estratégica de la función informática.
+
 
 ## 4.2. Auditoría informática
 Contenido aquí.
