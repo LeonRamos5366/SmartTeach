@@ -87,7 +87,7 @@ La administración y planeación estratégica de la función informática requie
 - **Análisis y Diseño de Sistemas**
   - Identificación de requerimientos de sistemas de información.
   - Diseño de soluciones informáticas efectivas y eficientes.
-
+[PDF](https://github.com/LeonRamos5366/SmartTeach/blob/main/Gestio%CC%81n%20de%20Recursos%20Tecnolo%CC%81gicos.pdf)
 - **Gestión de Servicios de TI**
   - Implementación de procesos ITIL para la provisión de servicios de TI.
   - Garantía de la calidad y mejora continua de los servicios de tecnología.
