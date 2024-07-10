@@ -95,8 +95,9 @@ La administración y planeación estratégica de la función informática requie
 - **Gestión Estratégica de Tecnología**
   - Alineación de la tecnología con los objetivos y la estrategia empresarial.
   - Evaluación de nuevas tecnologías y su impacto en la organización.
+[PDF](https://github.com/LeonRamos5366/SmartTeach/blob/main/Gestio%CC%81n%20de%20Servicios%20de%20TI.pdf) 
 
-- **Gestión del Cambio y la Innovación**
+ **Gestión del Cambio y la Innovación**
   - Liderazgo en la adopción de nuevas tecnologías y procesos.
   - Gestión del cambio organizacional para maximizar el valor de la tecnología.
 
