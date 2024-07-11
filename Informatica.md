@@ -109,7 +109,8 @@ La administración y planeación estratégica de la función informática requie
   - Comunicación efectiva con usuarios, clientes y socios comerciales.
   - Negociación y gestión de expectativas en proyectos tecnológicos.
 
-Estas competencias son fundamentales para el éxito en la administración y planeación estratégica de la función informática.
+
+(PDF)[https://github.com/LeonRamos5366/SmartTeach/blob/main/Gestio%CC%81n%20del%20Cambio%20y%20la%20Innovacio%CC%81n.pdf]Estas competencias son fundamentales para el éxito en la administración y planeación estratégica de la función informática.
 
 
 ## 4.2. Auditoría informática
