@@ -108,13 +108,21 @@ La administración y planeación estratégica de la función informática requie
 - **Gestión de Relaciones con los Interesados**
   - Comunicación efectiva con usuarios, clientes y socios comerciales.
   - Negociación y gestión de expectativas en proyectos tecnológicos.
-
-
 [PDF](https://github.com/LeonRamos5366/SmartTeach/blob/main/Gestio%CC%81n%20del%20Cambio%20y%20la%20Innovacio%CC%81n.pdf)Estas competencias son fundamentales para el éxito en la administración y planeación estratégica de la función informática.
 
-
 ## 4.2. Auditoría informática
-Contenido aquí.
+La auditoría informática es un proceso sistemático, independiente y objetivo de evaluación y verificación de los recursos informáticos de una organización, con el fin de determinar su estado actual, identificar riesgos y vulnerabilidades, y asegurar que estos recursos se utilizan de manera eficiente, eficaz y segura, de acuerdo con las normas, políticas y procedimientos establecidos.
+
+Objetivos:
+
+Los objetivos principales de una auditoría informática son:
+
+- Evaluar la seguridad de la información: Proteger la información confidencial, sensible y crítica de la organización contra accesos no autorizados, divulgación, alteración o destrucción.
+- Garantizar el cumplimiento normativo: Verificar que la organización cumple con las leyes, regulaciones y contratos aplicables relacionados con los sistemas informáticos.
+- Optimizar el uso de los recursos informáticos: Asegurar que los recursos informáticos se utilizan de manera eficiente y eficaz para apoyar los objetivos de la organización.
+- Identificar y mitigar riesgos: Identificar los riesgos potenciales que pueden afectar a los sistemas informáticos y tomar medidas para mitigarlos.
+- Mejorar los procesos de control interno: Evaluar los controles internos existentes e identificar oportunidades para mejorarlos.
+[PDF](https://github.com/LeonRamos5366/SmartTeach/blob/main/Auditori%CC%81a%20Informa%CC%81tica.pdf)
 
 ## 4.3. Seguridad informática
 Contenido aquí.
