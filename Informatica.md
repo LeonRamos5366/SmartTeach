@@ -115,7 +115,7 @@ La [auditoría informática](https://www.youtube.com/watch?v=Y5KvO86LcLQ) es un 
 
 Objetivos:
 
-Los objetivos principales de una auditoría informática son:
+Los objetivos [principales](https://www.youtube.com/watch?v=q8GsI-Hm6RY) de una auditoría informática son:
 
 - Evaluar la seguridad de la información: Proteger la información confidencial, sensible y crítica de la organización contra accesos no autorizados, divulgación, alteración o destrucción.
 - Garantizar el cumplimiento normativo: Verificar que la organización cumple con las leyes, regulaciones y contratos aplicables relacionados con los sistemas informáticos.
