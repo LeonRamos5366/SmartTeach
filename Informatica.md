@@ -124,6 +124,8 @@ Los objetivos [principales](https://www.youtube.com/watch?v=q8GsI-Hm6RY) de una 
 - Mejorar los procesos de control interno: Evaluar los controles internos existentes e identificar oportunidades para mejorarlos.
 [PDF](https://github.com/LeonRamos5366/SmartTeach/blob/main/Auditori%CC%81a%20Informa%CC%81tica.pdf)
 
+- [script](https://github.com/LeonRamos5366/SmartTeach/blob/main/auditoria.sh)
+
 ## 4.3. Seguridad informática
 Contenido aquí.
 
