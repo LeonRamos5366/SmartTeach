@@ -127,7 +127,38 @@ Los objetivos [principales](https://www.youtube.com/watch?v=q8GsI-Hm6RY) de una 
 - [script](https://github.com/LeonRamos5366/SmartTeach/blob/main/auditoria.sh)
 
 ## 4.3. Seguridad informática
-Contenido aquí.
+
+La [seguridad informática](https://www.youtube.com/watch?v=UIMW_px5jh0) en las organizaciones es un conjunto de prácticas y estrategias diseñadas para proteger los sistemas informáticos, la información y los datos de una organización frente a amenazas cibernéticas y accesos no autorizados. Iincluyen varias áreas clave:
+
+- Confidencialidad: Asegura que la información solo sea accesible por personas autorizadas. Esto implica el uso de técnicas de cifrado y controles de acceso para proteger datos sensibles.
+
+- Integridad: Garantiza que la información no sea alterada de manera no autorizada. Se utilizan técnicas como firmas digitales y hashes para verificar que los datos no han sido modificados.
+
+- Disponibilidad: Asegura que los sistemas y datos estén disponibles para los usuarios autorizados cuando los necesiten. Esto implica medidas como redundancia, respaldo de datos y planes de recuperación ante desastres.
+
+- Autenticación: Verifica la identidad de los usuarios que intentan acceder a los sistemas. Esto puede incluir el uso de contraseñas, autenticación multifactor (MFA) y biometría.
+
+- Autorización: Controla lo que los usuarios autenticados pueden hacer en el sistema. Esto se gestiona mediante políticas de control de acceso y permisos.
+
+- Registro y Monitoreo: Involucra la recopilación y análisis de registros de actividades en los sistemas para detectar y responder a incidentes de seguridad. Los sistemas de detección y prevención de intrusos (IDS/IPS) son ejemplos de esta área.
+
+- Gestión de Vulnerabilidades: Implica identificar, evaluar y mitigar vulnerabilidades en sistemas y software. Esto incluye la aplicación de parches y actualizaciones de seguridad.
+
+- Respuesta a Incidentes: Conjunto de procesos y procedimientos para manejar y mitigar los efectos de incidentes de seguridad. Incluye la identificación, contención, erradicación y recuperación de los sistemas afectados.
+
+- Educación y Concienciación: Formación continua a los empleados sobre las mejores prácticas de seguridad y la importancia de su papel en la protección de la información de la organización.
+
+- Cumplimiento y Normativas: Asegurar que la organización cumpla con las leyes, regulaciones y estándares de seguridad aplicables, como el GDPR, HIPAA, ISO/IEC 27001, entre otros.
+- [PDF]()
+
+### Procesos clave de seguridad informática:
+
+- Gestión de identidades y accesos: Controlar quién tiene acceso a la información y recursos, y cómo se otorgan y revocan esos permisos.
+- Gestión de parches y actualizaciones: Mantener los sistemas y aplicaciones actualizados para corregir vulnerabilidades conocidas.
+- Implementación de controles de seguridad: Establecer medidas de seguridad como firewalls, antivirus, sistemas de detección de intrusos, entre otros.
+- Planificación y gestión de respuesta a incidentes: Tener un plan de acción para detectar, responder y recuperarse de incidentes de seguridad.
+- Capacitación y concienciación de usuarios: Educar a los empleados sobre buenas prácticas de seguridad y cómo identificar y reportar amenazas.
+- Evaluación y mejora continua: Realizar auditorías y pruebas de penetración para identificar y corregir brechas de seguridad.
 
 ## 4.4. Evaluación informática
 Contenido aquí.
