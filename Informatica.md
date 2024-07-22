@@ -149,7 +149,7 @@ La [seguridad informática](https://www.youtube.com/watch?v=UIMW_px5jh0) en las 
 - Educación y Concienciación: Formación continua a los empleados sobre las mejores prácticas de seguridad y la importancia de su papel en la protección de la información de la organización.
 
 - Cumplimiento y Normativas: Asegurar que la organización cumpla con las leyes, regulaciones y estándares de seguridad aplicables, como el GDPR, HIPAA, ISO/IEC 27001, entre otros.
-- [PDF]()
+- [PDF](https://github.com/LeonRamos5366/SmartTeach/blob/main/Seguridad%20Informa%CC%81tica.pdf)
 
 ### Procesos clave de seguridad informática:
 
