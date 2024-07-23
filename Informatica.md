@@ -179,7 +179,7 @@ La [evaluación informática](https://github.com/LeonRamos5366/SmartTeach/blob/m
    - Saber cómo evaluar el cumplimiento de políticas y estándares de seguridad.
    - Entender el proceso de recolección, análisis y presentación de hallazgos en una auditoría informática.
 
-### El Proceso de Evaluación
+### [El Proceso de Evaluación](https://youtu.be/vYvh9x5h88k?si=mUYwwtDPeXt9siFB)
 
 #### Paso 1: Planificación y Preparación
 - **Objetivos de la Evaluación:**
