@@ -10,6 +10,7 @@
 | 4. Función Informática | 4.2. Auditoría informática | [Contenido](#42-auditoría-informática) |
 | 4. Función Informática | 4.3. Seguridad informática | [Contenido](#43-seguridad-informática) |
 | 4. Función Informática | 4.4. Evaluación informática | [Contenido](#44-evaluación-informática) |
+| 5. Bloque1 | 5.1. Necesidades Informáticas de una Organización | [Contenido](#51-Necesidades-Informáticas-de-una-Organización) |
 
 ## 3.1. Características de sistemas de información
 Prepararse para un examen sobre las características de los sistemas de información implica entender varios conceptos clave que abarcan desde la definición básica hasta los componentes y características específicas. A continuación, te presento un resumen de los aspectos más relevantes:
@@ -249,3 +250,5 @@ Beneficios del Juego:
 - Experimentarás cómo las decisiones informáticas afectan el éxito operativo y estratégico de una organización.
 
 ¡Prepárate para sumergirte en el mundo de la evaluación informática y convertirte en un verdadero "Experto"!
+
+## 5.1. Necesidades Informáticas de una Organización
