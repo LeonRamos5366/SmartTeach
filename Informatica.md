@@ -252,3 +252,4 @@ Beneficios del Juego:
 ¡Prepárate para sumergirte en el mundo de la evaluación informática y convertirte en un verdadero "Experto"!
 
 ## 5.1. Necesidades Informáticas de una Organización
+[Guia]() 
