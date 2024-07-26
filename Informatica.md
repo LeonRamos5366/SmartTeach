@@ -252,4 +252,4 @@ Beneficios del Juego:
 ¡Prepárate para sumergirte en el mundo de la evaluación informática y convertirte en un verdadero "Experto"!
 
 ## 5.1. Necesidades Informáticas de una Organización
-[Guia]() 
+[Guia](https://github.com/LeonRamos5366/SmartTeach/blob/main/Gui%CC%81a%20de%20Estudio%20Necesidades%20informa%CC%81ticas.pdf) 
