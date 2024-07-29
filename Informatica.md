@@ -11,7 +11,7 @@
 | 4. Función Informática | 4.3. Seguridad informática | [Contenido](#43-seguridad-informática) |
 | 4. Función Informática | 4.4. Evaluación informática | [Contenido](#44-evaluación-informática) |
 | 5. Bloque1 | 5.1. Necesidades Informáticas de una Organización | [Contenido](#51-Necesidades-Informáticas-de-una-Organización) |
-| 5. Bloque1 | 5.2. Gestión de proyectos | [Contenido](#52-Gestión-Proyectos) |
+| 5. Bloque2 | 5.2. Gestión de proyectos | [Contenido](#52-Gestión-Proyectos) |
 
 ## 3.1. Características de sistemas de información
 Prepararse para un examen sobre las características de los sistemas de información implica entender varios conceptos clave que abarcan desde la definición básica hasta los componentes y características específicas. A continuación, te presento un resumen de los aspectos más relevantes:
