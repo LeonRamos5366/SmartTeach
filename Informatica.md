@@ -11,6 +11,7 @@
 | 4. Función Informática | 4.3. Seguridad informática | [Contenido](#43-seguridad-informática) |
 | 4. Función Informática | 4.4. Evaluación informática | [Contenido](#44-evaluación-informática) |
 | 5. Bloque1 | 5.1. Necesidades Informáticas de una Organización | [Contenido](#51-Necesidades-Informáticas-de-una-Organización) |
+| 5. Bloque1 | 5.2. Gestión de proyectos | [Contenido](#52-Gestión-Proyectos) |
 
 ## 3.1. Características de sistemas de información
 Prepararse para un examen sobre las características de los sistemas de información implica entender varios conceptos clave que abarcan desde la definición básica hasta los componentes y características específicas. A continuación, te presento un resumen de los aspectos más relevantes:
@@ -252,4 +253,7 @@ Beneficios del Juego:
 ¡Prepárate para sumergirte en el mundo de la evaluación informática y convertirte en un verdadero "Experto"!
 
 ## 5.1. Necesidades Informáticas de una Organización
-[Guia](https://github.com/LeonRamos5366/SmartTeach/blob/main/Gui%CC%81a%20de%20Estudio%20Necesidades%20informa%CC%81ticas.pdf) 
+[Guía](https://github.com/LeonRamos5366/SmartTeach/blob/main/Gui%CC%81a%20de%20Estudio%20Necesidades%20informa%CC%81ticas.pdf) 
+
+## 5.2. Gestión de Proyectos
+[Guía](https://github.com/LeonRamos5366/SmartTeach/blob/main/Gui%CC%81a%20para%20la%20gestio%CC%81n%20de%20proyectos.pdf)
