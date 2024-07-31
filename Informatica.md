@@ -260,4 +260,4 @@ Beneficios del Juego:
 [Guía](https://github.com/LeonRamos5366/SmartTeach/blob/main/Gui%CC%81a%20para%20la%20gestio%CC%81n%20de%20proyectos.pdf)
 
 ## 5.3. Implementación Sistemas
-[Guía](https://github.com/LeonRamos5366/SmartTeach/blob/main/Gui%CC%81a%20para%20la%20gestio%CC%81n%20de%20proyectos.pdf)
+[Guía](https://github.com/LeonRamos5366/SmartTeach/blob/main/Implementacio%CC%81n%20de%20sistemas%20de%20informacio%CC%81n%20-%20Parte%201.pdf)
