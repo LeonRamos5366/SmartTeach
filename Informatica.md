@@ -261,3 +261,5 @@ Beneficios del Juego:
 
 ## 5.3. Implementación Sistemas
 [Guía](https://github.com/LeonRamos5366/SmartTeach/blob/main/Implementacio%CC%81n%20de%20sistemas%20de%20informacio%CC%81n%20-%20Parte%201.pdf)
+
+[Algoritmos Busqueda y Ordenamiento](https://github.com/LeonRamos5366/SmartTeach/blob/main/Algoritmos.md)
