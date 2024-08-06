@@ -13,6 +13,7 @@
 | 5. Bloque1 | 5.1. Necesidades Informáticas de una Organización | [Contenido](#51-Necesidades-Informáticas-de-una-Organización) |
 | 5. Bloque2 | 5.2. Gestión de proyectos | [Contenido](#52-Gestión-Proyectos) |
 | 5. Bloque3 | 5.3. Implementación de Sistemas de Información  | [Contenido](#53-Implementación-Sistemas) |
+| 5. Bloque3 | 5.4. Función Informática  | [Contenido](#54-Función-Informática) |
 
 ## 3.1. Características de sistemas de información
 Prepararse para un examen sobre las características de los sistemas de información implica entender varios conceptos clave que abarcan desde la definición básica hasta los componentes y características específicas. A continuación, te presento un resumen de los aspectos más relevantes:
@@ -265,3 +266,6 @@ Beneficios del Juego:
 [Algoritmos Busqueda y Ordenamiento](https://github.com/LeonRamos5366/SmartTeach/blob/main/Algoritmos.md)
 
 [Guía 2.1](https://github.com/LeonRamos5366/SmartTeach/blob/main/Guia%20de%20estudio%20para%20bases%20de%20datos%20e%20implementacio%CC%81n%20%20de%20sistemas%20de%20informacio%CC%81n.pdf)
+
+## 5.4. Función Informática 
+[Guía](https://github.com/LeonRamos5366/SmartTeach/blob/main/Funcio%CC%81n%20Informa%CC%81tica.pdf)
