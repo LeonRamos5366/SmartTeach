@@ -1,19 +1,25 @@
 # Contenidos
+# Evaluación por Áreas
 
-| Tema | Subtema | Enlace |
-|------|---------|--------|
-| 3. Implementación de Sistemas de Información | 3.1. Características de sistemas de información | [Contenido](#31-características-de-sistemas-de-información) |
-| 3. Implementación de Sistemas de Información | 3.2. Conceptos de programación | [Contenido](#32-conceptos-de-programación) |
-| 3. Implementación de Sistemas de Información | 3.3. Bases de datos | [Contenido](#33-bases-de-datos) |
-| 3. Implementación de Sistemas de Información | 3.4. Implementación de aplicaciones informáticas | [Contenido](#34-implementación-de-aplicaciones-informáticas) |
-| 4. Función Informática | 4.1. Gestión de la función informática | [Contenido](#41-gestión-de-la-función-informática) |
-| 4. Función Informática | 4.2. Auditoría informática | [Contenido](#42-auditoría-informática) |
-| 4. Función Informática | 4.3. Seguridad informática | [Contenido](#43-seguridad-informática) |
-| 4. Función Informática | 4.4. Evaluación informática | [Contenido](#44-evaluación-informática) |
-| 5. Bloque1 | 5.1. Necesidades Informáticas de una Organización | [Contenido](#51-Necesidades-Informáticas-de-una-Organización) |
-| 5. Bloque2 | 5.2. Gestión de proyectos | [Contenido](#52-Gestión-Proyectos) |
-| 5. Bloque3 | 5.3. Implementación de Sistemas de Información  | [Contenido](#53-Implementación-Sistemas) |
-| 5. Bloque4 | 5.4. Función Informática  | [Contenido](#54-Función-Informática) |
+| Áreas                                               | Subáreas                                                                                          | Núm. de reactivos |
+|-----------------------------------------------------|---------------------------------------------------------------------------------------------------|-------------------|
+| 1. Necesidades Informáticas de una Organización     | [1.1. Planeación de negocios](./1.1_planeacion_negocios.md)                                        | 15                |
+|                                                     | [1.2. Necesidades de información e infraestructura](./1.2_necesidades_informacion_infraestructura.md) | 8                 |
+|                                                     | [1.3. Propuestas de solución](./1.3_propuestas_solucion.md)                                        | 13                |
+| 2. Gestión de Proyectos Informáticos                | [2.1. Planeación y viabilidad del proyecto informático](./2.1_planeacion_viabilidad_proyecto.md)   | 11                |
+|                                                     | [2.2. Ejecución del proyecto informático](./2.2_ejecucion_proyecto.md)                            | 9                 |
+|                                                     | [2.3. Control y cierre del proyecto informático](./2.3_control_cierre_proyecto.md)                | 14                |
+| 3. Implementación de Sistemas de Información        | [3.1. Características de sistemas de información](./3.1_caracteristicas_sistemas.md)               | 9                 |
+|                                                     | [3.2. Conceptos de programación](./3.2_conceptos_programacion.md)                                 | 10                |
+|                                                     | [3.3. Bases de datos](./3.3_bases_datos.md)                                                       | 10                |
+|                                                     | [3.4. Implementación de aplicaciones informáticas](./3.4_implementacion_aplicaciones.md)           | 7                 |
+| 4. Función Informática                              | [4.1. Gestión de la función informática](./4.1_gestion_funcion_informatica.md)                     | 10                |
+|                                                     | [4.2. Auditoría informática](./4.2_auditoria_informatica.md)                                      | 9                 |
+|                                                     | [4.3. Seguridad informática](./4.3_seguridad_informatica.md)                                      | 7                 |
+|                                                     | [4.4. Evaluación informática](./4.4_evaluacion_informatica.md)                                    | 8                 |
+
+**Total de reactivos: 140**
+
 
 ## 3.1. Características de sistemas de información
 Prepararse para un examen sobre las características de los sistemas de información implica entender varios conceptos clave que abarcan desde la definición básica hasta los componentes y características específicas. A continuación, te presento un resumen de los aspectos más relevantes:
