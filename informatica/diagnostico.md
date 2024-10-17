@@ -1,16 +1,16 @@
 
 Instrucciones para la Actividad Diagnóstica
-* 1. Instalación de la Extensión GOFULL PAGE
+1. Instalación de la Extensión GOFULL PAGE
 Abre Google Chrome. Si no lo tienes instalado, descárgalo e instálalo desde el sitio oficial.
 Busca la extensión GOFULL PAGE utilizando el siguiente enlace: [GOFULL PAGE](https://chromewebstore.google.com/detail/gofullpage-full-page-scre/fdpohaocaechififmbbbbbknoalclacl).
 Instala la extensión en tu navegador.
-* 2. Acceso a ChatGPT
+2. Acceso a ChatGPT
 Abre ChatGPT en tu navegador accediendo a chatgpt.com.
 Inicia sesión con tus credenciales.
-* 3. Generación de Preguntas
+3. Generación de Preguntas
 En el prompt de ChatGPT, escribe tu nombre y presiona Enter.
 Luego, ingresa el siguiente prompt:
-text
+
 Objetivo: Crear un juego de preguntas de opción múltiple sobre "Necesidades Informáticas de una Organización”, “Gestión de Proyectos Informáticos", “Implementación de sistemas de información” y “Función Informática”. Las preguntas deben ser teóricas o presentar problemáticas que exijan un nivel cognitivo alto y demostrar competencias en el área.
 Instrucciones Generales:
 1. Formato de Pregunta:
@@ -60,6 +60,9 @@ Argumentación:
 
 Referencia Bibliográfica:
 * [Nombre del autor]. (Año). Título del libro o artículo. Editorial.
+
+Finalización:
+Al finalizar el juego, mostrar los resultados con cuántas preguntas fueron acertadas y cuántas no.
 
 Finalización:
 Al finalizar el juego, mostrar los resultados con cuántas preguntas fueron acertadas y cuántas no.
