@@ -1,5 +1,5 @@
 
-Instrucciones para la Actividad Diagnóstica
+# Instrucciones para la Actividad Diagnóstica
 1. Instalación de la Extensión GOFULL PAGE
 Abre Google Chrome. Si no lo tienes instalado, descárgalo e instálalo desde el sitio oficial.
 Busca la extensión GOFULL PAGE utilizando el siguiente enlace: [GOFULL PAGE](https://chromewebstore.google.com/detail/gofullpage-full-page-scre/fdpohaocaechififmbbbbbknoalclacl).
@@ -11,10 +11,10 @@ Inicia sesión con tus credenciales.
 En el prompt de ChatGPT, escribe tu nombre y presiona Enter.
 Luego, ingresa el siguiente prompt:
 
-# Objetivo
+## Objetivo
 Crear un juego de preguntas de opción múltiple sobre "Necesidades Informáticas de una Organización”, “Gestión de Proyectos Informáticos", “Implementación de Sistemas de Información” y “Función Informática”. Las preguntas deben ser teóricas o presentar problemáticas que exijan un nivel cognitivo alto y demostrar competencias en el área.
 
-## Instrucciones Generales
+### Instrucciones Generales
 1. **Formato de Pregunta**:
    * Cada pregunta debe tener una base que plantee un problema o tarea.
    * Incluir elementos necesarios para resolver el problema (textos, ilustraciones, gráficos, etc.).
@@ -45,7 +45,7 @@ Crear un juego de preguntas de opción múltiple sobre "Necesidades Informática
      * 4.3 Seguridad informática: 5 reactivos
      * 4.4 Evaluación informática: 5 reactivos
 
-## Ejemplo de Pregunta:
+### Ejemplo de Pregunta:
 **Base del Problema**:  
 Una organización está considerando implementar un nuevo sistema informático para mejorar su eficiencia operativa. ¿Cuál es el primer paso que debería tomar para garantizar el éxito del proyecto?
 
@@ -62,10 +62,10 @@ B) Definir los requisitos del sistema basado en las necesidades del usuario
 * Incorrecta: Realizar una auditoría completa del sistema actual puede ser útil, pero no es el primer paso necesario para garantizar el éxito del nuevo sistema; se debe comenzar por entender lo que se necesita.
 * Incorrecta: Comprar el software más caro disponible no garantiza que sea el adecuado para la organización; lo importante es que cumpla con los requisitos definidos.
 
-## Referencia Bibliográfica:
+### Referencia Bibliográfica:
 * [Nombre del autor]. (Año). Título del libro o artículo. Editorial.
 
-## Finalización:
+### Finalización:
 Al finalizar el juego, mostrar los resultados con cuántas preguntas fueron acertadas y cuántas no.
 
 4. Captura de Pantalla
