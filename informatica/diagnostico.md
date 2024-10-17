@@ -1,13 +1,13 @@
 
 Instrucciones para la Actividad Diagnóstica
-1. Instalación de la Extensión GOFULL PAGE
+* 1. Instalación de la Extensión GOFULL PAGE
 Abre Google Chrome. Si no lo tienes instalado, descárgalo e instálalo desde el sitio oficial.
-Busca la extensión GOFULL PAGE utilizando el siguiente enlace: GOFULL PAGE.
+Busca la extensión GOFULL PAGE utilizando el siguiente enlace: [GOFULL PAGE](https://chromewebstore.google.com/detail/gofullpage-full-page-scre/fdpohaocaechififmbbbbbknoalclacl).
 Instala la extensión en tu navegador.
-2. Acceso a ChatGPT
+* 2. Acceso a ChatGPT
 Abre ChatGPT en tu navegador accediendo a chatgpt.com.
 Inicia sesión con tus credenciales.
-3. Generación de Preguntas
+* 3. Generación de Preguntas
 En el prompt de ChatGPT, escribe tu nombre y presiona Enter.
 Luego, ingresa el siguiente prompt:
 text
