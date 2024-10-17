@@ -72,4 +72,4 @@ Al finalizar el juego, mostrar los resultados con cuántas preguntas fueron acer
 Una vez que ChatGPT haya generado las preguntas, escribe "INICIAR..." y continúa contestando hasta finalizar todas las preguntas.
 Al terminar, dirígete a la barra de navegación y busca el ícono de la extensión GOFULL PAGE (una cámara).
 Presiona el ícono para comenzar a capturar la página completa.
-Una vez finalizada la captura, envía el resultado al lugar indicado por tu profesor.
+Una vez finalizada la captura, envía el resultado al lugar indicado por tu profesor [CLASSROOM](https://classroom.google.com/c/NzI0MjI1MjM2ODI2?cjc=csmgq5i).
