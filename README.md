@@ -17,7 +17,7 @@ Este repositorio está dedicado a proporcionar recursos de entrenamiento y prepa
 ¡Explora los recursos disponibles y comienza tu preparación para los Exámenes Generales de Egreso!
 ## Seleccióna tu curso
 - [🔗 Link : Sistemas Computacionales](https://github.com/LeonRamos5366/SmartTeach/blob/main/SistemasComputacionales.md)
-- [🔗 Link : Informática](https://github.com/LeonRamos5366/SmartTeach/blob/main/Informatica.md)
+- [🔗 Link : Informática](https://github.com/LeonRamos5366/SmartTeach/blob/main/informatica/Informatica.md)
 
 ## Instructor.
 <img src="./Images/leon.jpg" width="130" height="200" />  Mtro. León Miguel Ramos Corchado
