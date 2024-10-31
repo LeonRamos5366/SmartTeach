@@ -5,7 +5,7 @@
 | 1. Necesidades Informáticas de una Organización     | [1.1. Planeación de negocios](./1.1_planeacion_negocios.md)                                        | 15                |
 |                                                     | [1.2. Necesidades de información e infraestructura](./1.2_necesidades_informacion_infraestructura.md) | 8                 |
 |                                                     | [1.3. Propuestas de solución](./1.3_propuestas_solucion.md)                                        | 13                |
-| 2. Gestión de Proyectos Informáticos                | [2.1. Planeación y viabilidad del proyecto informático](./2.1_planeacion_viabilidad_proyecto.md)   | 11                |
+| 2. Gestión de Proyectos Informáticos                | [2.1. Planeación y viabilidad del proyecto informático](./2.1_planeación_y_viabilidad_del_proyecto_informático.md)   | 11                |
 |                                                     | [2.2. Ejecución del proyecto informático](./2.2_ejecucion_proyecto.md)                            | 9                 |
 |                                                     | [2.3. Control y cierre del proyecto informático](./2.3_control_cierre_proyecto.md)                | 14                |
 | 3. Implementación de Sistemas de Información        | [3.1. Características de sistemas de información](./3.1_caracteristicas_sistemas.md)               | 9                 |
