@@ -12,7 +12,7 @@
 |                                                     | [3.2. Conceptos de programación](./3.2_conceptos_programacion.md)                                 | 10                |
 |                                                     | [3.3. Bases de datos](./3.3_bases_datos.md)                                                       | 10                |
 |                                                     | [3.4. Implementación de aplicaciones informáticas](./3.4_implementacion_aplicaciones.md)           | 7                 |
-| 4. Función Informática                              | [4.1. Gestión de la función informática](./4.1_gestion_funcion_informatica.md)                     | 10                |
+| 4. Función Informática [Roadmap](./roadmaoFI.md)                             | [4.1. Gestión de la función informática](./4.1_gestion_funcion_informatica.md)                     | 10                |
 |                                                     | [4.2. Auditoría informática](./4.2_auditoria_informatica.md)                                      | 9                 |
 |                                                     | [4.3. Seguridad informática](./4.3_seguridad_informatica.md)                                      | 7                 |
 |                                                     | [4.4. Evaluación informática](./4.4_evaluacion_informatica.md)                                    | 8                 |
